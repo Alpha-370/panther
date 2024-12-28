@@ -1,3 +1,4 @@
 # panther
-my first Entry
-programer = Alex 
+my first Entry.
+<br>
+programer = Alex. 
